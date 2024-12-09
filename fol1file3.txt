@@ -1,1 +1,5 @@
+------- HEAD
 file3 modifed in fodler1
+=======
+fol1file3.txt
+--------- first
