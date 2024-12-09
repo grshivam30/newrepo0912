@@ -1,0 +1,5 @@
+----------- HEAD
+file2 modifed in fodler2
+=======
+file2folder2
+--------- first
